@@ -12,7 +12,6 @@
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/oleleemma88/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/oleleemma88/azure-network-protocols)
 
-<h2>🤳Connect with me:</h2>
 
 
 
