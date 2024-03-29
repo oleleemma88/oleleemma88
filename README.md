@@ -1,4 +1,4 @@
-### Hi there my name is Emmanuel
+
 
 <h1>Hi, I'm Emmanuel, an <a href="https://linkedin.com/in/emmanuel-olele-203bb9203">IT Professional</a>☺</h1>
 
